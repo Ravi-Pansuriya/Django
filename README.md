@@ -56,7 +56,11 @@ Here, our project name is Erranzer. Next, go into that folder.
 ```
 cd Erranzer
 ```
-Finally, we have created the project. Now start the project server by typing the following command.
+Finally, we have created the project. Now we may need to migrate apps installed by scalaton by typing this command.
+```
+python3 manage.py migrate
+```
+Now start the project server by typing the following command.
 ```
 python3 manage.py runserver
 ```
