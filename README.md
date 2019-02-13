@@ -21,17 +21,18 @@ Now, type this command in your terminal.
 ```
 sudo pip3 install virtualenv
 ```
-Okay, after installing, we need to create the virtual environment. Now you will create this folder when you are putting your other projects. Mine is desktop >> code folder. So navigate to that and type the following command. In my case, My virtualenv folder name is **Geekyworks**.
+Okay, after installing, we need to create the virtual environment. Now you will create this folder when you are putting your other projects. Mine is desktop >> project folder. So navigate to that and type the following command and create project directory.
 ```
-virtualenv -p python3 Geekyworks
+mkdir Erranzer
+cd Erranzer
 ```
-Okay, so it will install the required folders. Now, go into that folder.
+In my case, My virtualenv folder name is **env**. we will keep our environment setup in separate directory.
 ```
-cd Geekyworks
+virtualenv -p python3 env
 ```
-Now, activate the virtual environment by typing the following command. Please Make sure you are in the virtual environment directory.
+Now, activate the virtual environment by typing the following command without leaving project directory.
 ```
-source bin/activate
+source env/bin/activate
 ```
 You will see your terminal looks like below.
 ![image-02](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-02.png)  
