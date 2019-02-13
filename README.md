@@ -8,7 +8,7 @@ Okay, after it will complete the installation, you will type the following comma
 python3
 ```
 It will display the version, and now we can execute the python code.  
-![image-01](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-01.png)
+![image-01](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-01.png)  
 Okay, so we have successfully installed the python 3. Now, to out from the python console, we need to type exit().
 
 # Step 2: Install Pip package management system
@@ -34,7 +34,7 @@ Now, activate the virtual environment by typing the following command. Please Ma
 source bin/activate
 ```
 You will see your terminal looks like below.
-![image-02](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-02.png)
+![image-02](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-02.png)  
 So, our virtual environment has been started. Now, this is the time to install the Django Framework.
 
 # Step 4: Install Django In Mac
@@ -64,11 +64,11 @@ Now start the project server by typing the following command.
 ```
 python3 manage.py runserver
 ```
-![image-03](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-03.png)
+![image-03](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-03.png)  
 It has started the development server, and we can access it via localhost:8000
 
 Navigate to the browser, and you will see the screen like this.
-![image-04](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-04.png)
+![image-04](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-04.png)  
 
 # Step 6: Open Django on Visual Studio Code
 If you have not installed Visual Studio Code on Mac then please check out below tutorial. 
