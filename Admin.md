@@ -1,5 +1,5 @@
-# Create super user
-We'll also create an initial user named admin with a password of geeky1234.
+# Manage users
+We'll create an initial user named admin with a password of geeky1234.
 ```
 python3 manage.py createsuperuser --email admin@geekyworks.com --username admin
 ```
