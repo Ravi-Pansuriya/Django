@@ -38,10 +38,10 @@ You will see your terminal looks like below.
 ![image-02](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-02.png)  
 So, our virtual environment has been started. Now, this is the time to install the Django Framework.
 
-# Step 4: Install Django In Mac
+# Step 4: Install Django In env
 Okay, now stay in that folder and install Django using the following command.
 ```
-sudo pip3 install django
+pip3 install django
 ```
 It will download the Django project. Check the Django version using the following command.
 ```
