@@ -34,7 +34,7 @@ Now, activate the virtual environment by typing the following command without le
 ```
 source env/bin/activate
 ```
-You will see your terminal looks like below.
+You will see your terminal looks like below.  
 ![image-02](https://github.com/Ravi-Pansuriya/Django/blob/master/assets/images/image-02.png)  
 So, our virtual environment has been started. Now, this is the time to install the Django Framework.
 
