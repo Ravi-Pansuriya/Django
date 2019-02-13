@@ -21,13 +21,13 @@ Now, type this command in your terminal.
 ```
 sudo pip3 install virtualenv
 ```
-Okay, after installing, we need to create the virtual environment. Now you will create this folder when you are putting your other projects. Mine is desktop >> code folder. So navigate to that and type the following command. In my case, My virtualenv folder name is **Django**.
+Okay, after installing, we need to create the virtual environment. Now you will create this folder when you are putting your other projects. Mine is desktop >> code folder. So navigate to that and type the following command. In my case, My virtualenv folder name is **Geekyworks**.
 ```
-virtualenv -p python3 Django
+virtualenv -p python3 Geekyworks
 ```
 Okay, so it will install the required folders. Now, go into that folder.
 ```
-cd Django
+cd Geekyworks
 ```
 Now, activate the virtual environment by typing the following command. Please Make sure you are in the virtual environment directory.
 ```
