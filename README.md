@@ -53,6 +53,10 @@ We need to install skeleton of the Django project. So type the following command
 ```
 django-admin startproject Erranzer
 ```
+if you want setup with template, you can simply use
+```
+django-admin startproject --template=https://github.com/Mischback/django-project-skeleton/archive/development.zip Erranzer
+```
 Here, our project name is Erranzer. Next, go into that folder.
 ```
 cd Erranzer
