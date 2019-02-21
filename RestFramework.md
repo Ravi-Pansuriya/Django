@@ -66,6 +66,14 @@ $ find .
 ./api/views.py
 ./manage.py
 ```
+Now we need to register `rest_framewark` and `app` we have created in `settings.py`
+```
+INSTALLED_APPS = (
+    ...
+    'rest_framework',
+    'api',
+)
+```
 Finally, we have created the project. Now we may need to migrate apps installed by scalaton by typing this command.
 ```
 python3 manage.py migrate
